@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**rubymayadev/rubymayadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly skilled and very language-flexible web developer with 10+ yrs of experience in responsive web development with Ruby, Ruby on Rails, React, StimulusJS, NextJS, Tailwind CSS, Material UI, Bootstrap, RESTful API, Node, Express, GraphQL, MongoDB, PostgreSQL, etc. My work experience runs the gamut of software development, from software architecture, database design to website/webapp development.
 
-Here are some ideas to get you started:
+### Tech Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ruby, Ruby on Rails, Sinatra, Hanami, Hotwire, TurboFrame, Devise
+  
+- React, Nextjs, Node, StimulusJS, Tailwind, Material, Bootstrap, jQuery, Ajax
+  
+- RESTful API, GraphQL, 3rd party API integration
+  
+- MongoDB, PostgreSQL, MySQL
